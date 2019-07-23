@@ -1,8 +1,6 @@
-package com.emojidictrn;
+package com.reactlibrary;
 
 import android.view.View;
-import android.widget.Button;
-import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import com.antourage.weaverlib.ui.fab.AntourageFab;

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { AppState, requireNativeComponent, View } from 'react-native';
 
+
 export default class Button extends Component{
 	onChange = (event) =>{
 		if(this.props.onTap){
