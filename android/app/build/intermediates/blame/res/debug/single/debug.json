@@ -88,12 +88,12 @@
         "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
     },
     {
-        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gradient_bottom.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\bg_gradient_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_notification_small_icon.png.flat",
         "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6c018027e26b3b153f1039922228e78f\\res\\drawable-xxhdpi-v4\\exo_notification_small_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_gradient_bottom.xml.flat",
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\bg_gradient_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
@@ -121,15 +121,15 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_answered_poll.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\item_answered_poll.xml"
-    },
-    {
-        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\item_answered_poll.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
         "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -140,24 +140,24 @@
         "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6764b4b77fa33456684be6d0dcdade5c\\res\\color\\mtrl_btn_text_color_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
         "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6764b4b77fa33456684be6d0dcdade5c\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fe715f478dab483bc312bae3990a9854\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_mtrl_btn_stroke_color_selector.xml.flat",
@@ -249,7 +249,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_chat.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\layout_chat.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\layout_chat.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
@@ -301,7 +301,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_full_screen.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_full_screen.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_full_screen.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -333,7 +333,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_btn_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\image_btn_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\image_btn_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_gray.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_close_gray.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_close_gray.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
@@ -393,7 +393,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_pause.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_pause.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_pause.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_rn_dev_preferences.xml.flat",
@@ -489,7 +489,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_poll_white_transparent.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-ldpi-v4\\ic_poll_white_transparent.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-ldpi-v4\\ic_poll_white_transparent.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_exo_track_selection_dialog.xml.flat",
@@ -557,11 +557,11 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_poll_white_transparent.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-xxxhdpi-v4\\ic_poll_white_transparent.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-xxxhdpi-v4\\ic_poll_white_transparent.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share_white.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_share_white.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_share_white.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
@@ -573,7 +573,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_separator.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\item_separator.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\item_separator.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -625,7 +625,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_ic_poll_green.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-ldpi-v4\\ic_poll_green.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-ldpi-v4\\ic_poll_green.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
@@ -653,7 +653,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_icon_logo.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_icon_logo.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_icon_logo.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -689,7 +689,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loader_logo.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\loader_logo.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\loader_logo.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
@@ -709,7 +709,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_video.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\fragment_video.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\fragment_video.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
@@ -777,7 +777,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_message.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\item_message.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\item_message.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_redbox_item_title.xml.flat",
@@ -805,7 +805,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_pink_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_pink_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_pink_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mtrl_tabs_default_indicator.xml.flat",
@@ -853,11 +853,11 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_poll_suggestion.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\layout_poll_suggestion.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\layout_poll_suggestion.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_play_arrow.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_play_arrow.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_play_arrow.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_exo_icon_fastforward.png.flat",
@@ -869,7 +869,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_green_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_green_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_green_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
@@ -881,7 +881,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_off_layered.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_chat_off_layered.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_chat_off_layered.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
@@ -913,7 +913,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_prev.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_navigate_prev.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_navigate_prev.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -997,11 +997,11 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_scene_fab.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\xml\\scene_fab.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\xml\\scene_fab.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_close.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_close.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
@@ -1025,7 +1025,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_no_chat.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\layout_no_chat.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\layout_no_chat.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -1033,7 +1033,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_poll_green.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-mdpi-v4\\ic_poll_green.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-mdpi-v4\\ic_poll_green.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_exo_controls_fullscreen_enter.xml.flat",
@@ -1053,11 +1053,11 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ronded_fab_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ronded_fab_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ronded_fab_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_video_controls.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\custom_video_controls.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\custom_video_controls.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
@@ -1117,7 +1117,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_antourage.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\activity_antourage.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\activity_antourage.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
@@ -1209,7 +1209,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_blue_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_blue_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_blue_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1253,7 +1253,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_videos_list.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\fragment_videos_list.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\fragment_videos_list.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_exo_icon_play.png.flat",
@@ -1265,7 +1265,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_poll_white_transparent.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-xxhdpi-v4\\ic_poll_white_transparent.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-xxhdpi-v4\\ic_poll_white_transparent.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_icon_rewind.png.flat",
@@ -1277,7 +1277,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_player_custom_control.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\player_custom_control.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\player_custom_control.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
@@ -1293,7 +1293,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\fragment_chat.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\fragment_chat.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_text_light_normal_background.9.png.flat",
@@ -1313,7 +1313,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_unanswered_poll.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\item_unanswered_poll.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\item_unanswered_poll.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
@@ -1397,7 +1397,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_navigate_next.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_navigate_next.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_navigate_next.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -1421,7 +1421,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_poll_white_transparent.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-anydpi-v24\\ic_poll_white_transparent.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-anydpi-v24\\ic_poll_white_transparent.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
@@ -1477,7 +1477,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_broadcast.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\item_broadcast.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\item_broadcast.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -1493,7 +1493,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_bleak_pink_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_bleak_pink_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_bleak_pink_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
@@ -1565,7 +1565,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_poll_green.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-hdpi-v4\\ic_poll_green.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-hdpi-v4\\ic_poll_green.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
@@ -1593,7 +1593,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_ic_poll_green.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-xxxhdpi-v4\\ic_poll_green.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-xxxhdpi-v4\\ic_poll_green.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
@@ -1625,7 +1625,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_bechoice.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\dialog_bechoice.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\dialog_bechoice.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_focused.xml.flat",
@@ -1661,7 +1661,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_send.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_send.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_send.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -1729,7 +1729,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_poll_white_transparent.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-xhdpi-v4\\ic_poll_white_transparent.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-xhdpi-v4\\ic_poll_white_transparent.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -1749,7 +1749,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ic_poll_green.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-xhdpi-v4\\ic_poll_green.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-xhdpi-v4\\ic_poll_green.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
@@ -1813,7 +1813,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_message_fullscreen.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\item_message_fullscreen.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\item_message_fullscreen.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\anim_catalyst_slide_down.xml.flat",
@@ -1873,7 +1873,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_poll_white_transparent.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-mdpi-v4\\ic_poll_white_transparent.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-mdpi-v4\\ic_poll_white_transparent.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
@@ -1885,7 +1885,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_fullscreen_exit.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_fullscreen_exit.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_fullscreen_exit.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1901,7 +1901,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_cl_states_player_screen.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\xml\\cl_states_player_screen.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\xml\\cl_states_player_screen.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
@@ -1933,7 +1933,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_ic_poll_white_transparent.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-hdpi-v4\\ic_poll_white_transparent.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-hdpi-v4\\ic_poll_white_transparent.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
@@ -2041,7 +2041,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat_no_comments_yet.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_chat_no_comments_yet.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_chat_no_comments_yet.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -2049,7 +2049,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_controller_header.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\controller_header.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\controller_header.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -2069,7 +2069,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_gray_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_gray_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_gray_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
@@ -2109,7 +2109,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_layout_motion_fab.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\layout_motion_fab.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\layout_motion_fab.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -2189,7 +2189,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_pink.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\circle_pink.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\circle_pink.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -2209,7 +2209,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_weaver_portrait.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\fragment_weaver_portrait.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\fragment_weaver_portrait.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
@@ -2241,11 +2241,11 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_video.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\item_video.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\item_video.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_logo_white.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_logo_white.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_logo_white.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_exo_controls_shuffle.png.flat",
@@ -2297,7 +2297,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_orange_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_orange_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_orange_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
@@ -2305,7 +2305,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\xml_cl_states_video_screen.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\xml\\cl_states_video_screen.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\xml\\cl_states_video_screen.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\animator_mtrl_fab_transformation_sheet_expand_spec.xml.flat",
@@ -2313,7 +2313,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_default_user.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_default_user.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_default_user.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -2349,7 +2349,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_fab_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_fab_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_fab_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
@@ -2365,7 +2365,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_antourage_fab_layout.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\antourage_fab_layout.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\antourage_fab_layout.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -2413,7 +2413,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_semitransparent_bg.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\rounded_semitransparent_bg.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\rounded_semitransparent_bg.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
@@ -2493,7 +2493,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_poll_details.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\fragment_poll_details.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\fragment_poll_details.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
@@ -2509,15 +2509,15 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_poll_horizontal.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_poll_horizontal.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_poll_horizontal.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_poll_green.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-anydpi-v24\\ic_poll_green.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-anydpi-v24\\ic_poll_green.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_weaver_landscape.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\layout\\fragment_weaver_landscape.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\layout\\fragment_weaver_landscape.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
@@ -2625,7 +2625,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_watcher.xml.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable\\ic_watcher.xml"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable\\ic_watcher.xml"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
@@ -2733,7 +2733,7 @@
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_ic_poll_green.png.flat",
-        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\fcd0e59476e895e9ff342b5cabc06d4e\\res\\drawable-xxhdpi-v4\\ic_poll_green.png"
+        "source": "C:\\Users\\Leobit User\\.gradle\\caches\\transforms-2\\files-2.1\\6afc1e8b995e9162fc726e00c9241a9f\\res\\drawable-xxhdpi-v4\\ic_poll_green.png"
     },
     {
         "merged": "C:\\Users\\Leobit User\\Documents\\ReactNative\\weaverRNTest\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
