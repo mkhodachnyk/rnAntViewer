@@ -1,86 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools" xmlns:ns2="urn:oasis:names:tc:xliff:document:1.2">
-    <string-array name="error_codes">
-        
+    <string-array name="ant_error_codes">
+        <!--status code = 0-->
         <item>Internt server-fel</item>
-        
+        <!--status code = 1-->
         <item>E-postadress och lösenord matchar inte. Vänligen försök igen</item>
-        
+        <!--status code = 2-->
         <item>Använd den e-postadress som din administratör bjudit in dig med</item>
-        
+        <!--status code = 3-->
         <item>Beviset är ogiltigt</item>
-        
+        <!--status code = 4-->
         <item>E-postadressen är ogiltig</item>
-        
+        <!--status code = 5-->
         <item>E-postadressen används redan</item>
-        
+        <!--status code = 6-->
         <item>Information om enheten saknas</item>
-        
+        <!--status code = 7-->
         <item>Användaren hittas inte</item>
-        
+        <!--status code = 8-->
         <item>Plattformen hittas inte</item>
-        
+        <!--status code = 9-->
         <item>Teamet hittas inte</item>
-        
+        <!--status code = 10-->
         <item>Kanalen hittas inte</item>
-        
+        <!--status code = 11-->
         <item>Rollen hittas inte</item>
-        
+        <!--status code = 12-->
         <item>Team medlem hittas inte</item>
-        
+        <!--status code = 13-->
         <item>Denna target hittas inte</item>
-        
+        <!--status code = 14-->
         <item>Schemat hittas inte</item>
-        
+        <!--status code = 15-->
         <item>Kanal-target hittas inte</item>
-        
+        <!--status code = 16-->
         <item>Inställningen finns inte</item>
-        
+        <!--status code = 17-->
         <item>Felaktigt ID</item>
-        
+        <!--status code = 18-->
         <item>Du har inte behörighet att göra detta</item>
-        
+        <!--status code = 19-->
         <item>Ingen respons publicisten, vänligen kontrollera dina inställningar</item>
-        
+        <!--status code = 20-->
         <item>Kan inte skapa team</item>
-        
+        <!--status code = 21-->
         <item>Alla valda targets är upptagna</item>
-        
+        <!--status code = 22-->
         <item>Denna target är upptagen</item>
-        
+        <!--status code = 23-->
         <item>Inbjudan hittas inte, eller så har den redan använts</item>
-        
+        <!--status code = 24-->
         <item>Användarnamnet finns redan</item>
-        
+        <!--status code = 25-->
         <item>Hittar inte organisationen</item>
-        
+        <!--status code = 26-->
         <item>Fel API</item>
-        
+        <!--status code = 27-->
         <item>Länken är ogiltig eller redan använd</item>
-        
+        <!--status code = 28-->
         <item>Kan inte verifiera ditt konto</item>
-        
+        <!--status code = 29-->
         <item>Invite for that user already exists</item>
-        
+        <!--status code = 30-->
         <item>Your invite has expired</item>
         <item>Could not process the email</item>
-        
+        <!--status code = 32-->
         <item>File can\'t be empty</item>
-        
+        <!--status code = 33-->
         <item>Could not delete your user</item>
-        
+        <!--status code = 34-->
         <item>Target with selected template already exists</item>
-        
+        <!--status code = 35-->
         <item>Nothing was found using the data provided</item>
-        
+        <!--status code = 36-->
         <item>User has already been assigned to the target</item>
-        
+        <!--status code = 37-->
         <item>Could not start stream at cloud</item>
-        
+        <!--status code = 38-->
         <item>User lacks password</item>
-        
+        <!--status code = 39-->
         <item>Error while clearing recent broadcasts</item>
-        
+        <!--status code = 40-->
         <item>No more recent broadcasts to show</item>
     </string-array>
     <attr format="reference" name="animate_relativeTo"/>
@@ -408,15 +408,36 @@
     <color name="abc_search_url_text_selected">@android:color/black</color>
     <color name="accent_material_dark">@color/material_deep_teal_200</color>
     <color name="accent_material_light">@color/material_deep_teal_500</color>
+    <color name="ant_bg_color">#222</color>
+    <color name="ant_bg_color_widget">#FF464646</color>
+    <color name="ant_bg_color_widget_expantion">#131313</color>
+    <color name="ant_bleak_pink">#F8BFAD</color>
+    <color name="ant_blue">#3596C5</color>
+    <color name="ant_card_gray_background">#2F2F2F</color>
+    <color name="ant_color_dark_gray_text">#3D3D3D</color>
+    <color name="ant_color_dark_gray_text_a10">#1A3D3D3D</color>
+    <color name="ant_color_dark_gray_text_a60">#993D3D3D</color>
+    <color name="ant_dark_gray_a40">#66000000</color>
+    <color name="ant_gray_lighter">#FF848484</color>
+    <color name="ant_gray_text">#8C8C8C</color>
+    <color name="ant_grayed_text">#464646</color>
+    <color name="ant_green">#04A854</color>
+    <color name="ant_green_disabled">#CCEDDC</color>
+    <color name="ant_green_enabled">#05A854</color>
+    <color name="ant_halftransparent">#80000000</color>
+    <color name="ant_light_gray">#D8D8D8</color>
+    <color name="ant_light_gray_transparent">#59bababa</color>
+    <color name="ant_no_content_placeholder_color_1">#353535</color>
+    <color name="ant_no_content_placeholder_color_2">#3A3A3A</color>
+    <color name="ant_no_content_placeholder_color_3">#444444</color>
+    <color name="ant_orange">#F8BC6D</color>
+    <color name="ant_pink">#E4699B</color>
+    <color name="ant_semitransparent">#66424242</color>
+    <color name="ant_white">#FFFFFF</color>
     <color name="background_floating_material_dark">@color/material_grey_800</color>
     <color name="background_floating_material_light">@android:color/white</color>
     <color name="background_material_dark">@color/material_grey_850</color>
     <color name="background_material_light">@color/material_grey_50</color>
-    <color name="bg_color">#222</color>
-    <color name="bg_color_widget">#FF464646</color>
-    <color name="bg_color_widget_expantion">#131313</color>
-    <color name="bleak_pink">#F8BFAD</color>
-    <color name="blue">#3596C5</color>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -425,13 +446,11 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="card_gray_background">#2F2F2F</color>
     <color name="cardview_dark_background">#FF424242</color>
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
     <color name="catalyst_redbox_background">#eecc0000</color>
-    <color name="colorAccent">#E36B9D</color>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
@@ -461,13 +480,8 @@
     <color name="exo_error_message_background_color">#AA000000</color>
     <color name="foreground_material_dark">@android:color/white</color>
     <color name="foreground_material_light">@android:color/black</color>
-    <color name="gray_lighter">#FF848484</color>
-    <color name="gray_text_explanation">#464646</color>
-    <color name="green">#04A854</color>
-    <color name="halftransparent">#80000000</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
-    <color name="light_gray_transparent">#59bababa</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -491,8 +505,6 @@
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">#ff424242</color>
-    <color name="orange">#F8BC6D</color>
-    <color name="pink">#E4699B</color>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
     <color name="primary_material_dark">@color/material_grey_900</color>
@@ -507,14 +519,12 @@
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
     <color name="secondary_text_disabled_material_light">#24000000</color>
-    <color name="semitransparent">#66424242</color>
     <color name="switch_thumb_disabled_material_dark">#ff616161</color>
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
     <color name="tooltip_background_dark">#e6616161</color>
     <color name="tooltip_background_light">#e6FFFFFF</color>
-    <color name="transparant">#32000000</color>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen>
     <dimen name="abc_action_bar_default_height_material">56dp</dimen>
@@ -590,6 +600,7 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
+    <dimen name="ant_margin_seekbar_landscape">6dp</dimen>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
@@ -661,10 +672,6 @@
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
-    <dimen name="margin_portrait">18dp</dimen>
-    <dimen name="margin_seekbar_landscape">62dp</dimen>
-    <dimen name="margin_size_landscape">2dp</dimen>
-    <dimen name="margin_time_landscape">4dp</dimen>
     <dimen name="mtrl_bottomappbar_fabOffsetEndMode">60dp</dimen>
     <dimen name="mtrl_bottomappbar_fab_cradle_margin">5dp</dimen>
     <dimen name="mtrl_bottomappbar_fab_cradle_rounded_corner_radius">8dp</dimen>
@@ -819,6 +826,7 @@
     <item name="view_tag_native_id" type="id"/>
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="ant_max_length_message_input">250</integer>
     <integer name="app_bar_elevation_anim_duration">150</integer>
     <integer name="bottom_sheet_slide_duration">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
@@ -827,26 +835,33 @@
     <integer name="design_tab_indicator_anim_duration_ms">300</integer>
     <integer name="google_play_services_version">12451000</integer>
     <integer name="hide_password_duration">320</integer>
-    <integer name="max_length_message_input">250</integer>
     <integer name="mtrl_btn_anim_delay_ms">100</integer>
     <integer name="mtrl_btn_anim_duration_ms">100</integer>
     <integer name="mtrl_chip_anim_duration">100</integer>
     <integer name="mtrl_tab_indicator_anim_duration_ms">250</integer>
     <integer name="show_password_duration">200</integer>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <plurals name="days">
+    <plurals name="ant_days">
         <item quantity="one">%d day</item>
         <item quantity="other">%d days</item>
     </plurals>
-    <plurals name="hours">
+    <plurals name="ant_hours">
         <item quantity="one">%d h</item>
         <item quantity="other">%d h</item>
     </plurals>
-    <plurals name="minutes">
+    <plurals name="ant_minutes">
         <item quantity="one">%d m</item>
         <item quantity="other">%d m</item>
     </plurals>
-    <plurals name="seconds">
+    <plurals name="ant_number_answers">
+        <item quantity="one">%d poll answer</item>
+        <item quantity="other">%d poll answers</item>
+    </plurals>
+    <plurals name="ant_number_of_viewers">
+        <item quantity="one">%d viewer</item>
+        <item quantity="other">%d viewers</item>
+    </plurals>
+    <plurals name="ant_seconds">
         <item quantity="one">%d s</item>
         <item quantity="other">%d s</item>
     </plurals>
@@ -890,6 +905,26 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns2:g example="Mail" id="application_name">%s</ns2:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="adjustable_description" translatable="false">Adjustable</string>
+    <string name="ant_cancel">Cancel</string>
+    <string name="ant_chat_not_available">Chat is unavailable</string>
+    <string name="ant_choose_image_source">Add image</string>
+    <string name="ant_commenting_off">Commenting is turned off for now</string>
+    <string name="ant_confirm">Confirm</string>
+    <string name="ant_delete_image">Delete image</string>
+    <string name="ant_from_camera">From camera</string>
+    <string name="ant_from_gallery">From gallery</string>
+    <string name="ant_live">Live</string>
+    <string name="ant_main_title">Latest Videos</string>
+    <string name="ant_new">New</string>
+    <string name="ant_new_poll">New poll!</string>
+    <string name="ant_new_stream">New stream</string>
+    <string name="ant_no_comments_yet">There are no comments yet</string>
+    <string name="ant_say_something">Say something</string>
+    <string name="ant_set">set</string>
+    <string name="ant_started_ago">%1$s ago</string>
+    <string name="ant_total_answers">Total answers</string>
+    <string name="ant_type_your_display_name">Type your display name</string>
+    <string name="ant_videos_empty_list_placeholder_text">New videos are coming soon</string>
     <string name="app_name">EmojiDictRN</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
     <string name="bottom_sheet_behavior" translatable="false">android.support.design.widget.BottomSheetBehavior</string>
@@ -919,9 +954,6 @@
     <string name="catalyst_settings_title" project="catalyst" translatable="false">Catalyst Dev Settings</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="chat_not_available">Chat is unavailable</string>
-    <string name="choose_link">Choose link</string>
-    <string name="commenting_off">Commenting is turned off for now</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns2:g id="app_name">%1$s</ns2:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -941,7 +973,6 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="default_web_client_id" translatable="false">1090288296965-af0rel1gllhfhacd94q4qsp9k77hsgv3.apps.googleusercontent.com</string>
-    <string name="development_link">https://api-myra.net</string>
     <string name="exo_controls_fastforward_description">Fast forward</string>
     <string name="exo_controls_fullscreen_description">Fullscreen mode</string>
     <string name="exo_controls_next_description">Next track</string>
@@ -987,32 +1018,24 @@
     <string name="image_button_description" translatable="false">Button, Image</string>
     <string name="image_description" translatable="false">Image</string>
     <string name="link_description" translatable="false">Link</string>
-    <string name="live">Live</string>
-    <string name="local_link">http://192.168.20.89:3000/</string>
-    <string name="main_title">Inside England | LIVE</string>
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
-    <string name="new_poll">New poll!</string>
-    <string name="new_stream">New stream</string>
-    <string name="no_comments_yet">There are no comments yet</string>
-    <string name="number_answers">%d poll answers</string>
     <string name="password_toggle_content_description">Show password</string>
     <string name="path_password_eye" translatable="false">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through" translatable="false">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible" translatable="false">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through" translatable="false">M3.27,4.27 L19.74,20.74</string>
-    <string name="production_link">https://myra.technology</string>
     <string name="project_id" translatable="false">leobit-antourage</string>
-    <string name="say_something">Say something</string>
     <string name="search_description" translatable="false">Search Field</string>
     <string name="search_menu_title">Search</string>
-    <string name="set">set</string>
-    <string name="staging_link">https://staging-myra.com</string>
-    <string name="started_ago">%1$s ago</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="total_answers">Total answers</string>
-    <string name="viewers">%d viewers</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
+    <style name="AlertDialogTheme" parent="ThemeOverlay.AppCompat.Dialog.Alert">
+        <item name="android:buttonBarNeutralButtonStyle">@style/PositiveButtonStyle</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/PositiveButtonStyle</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+        <item name="colorAccent">@color/ant_pink</item>
+    </style>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
     <style name="Animation.AppCompat.Tooltip" parent="Base.Animation.AppCompat.Tooltip"/>
@@ -1026,6 +1049,9 @@
   </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
+    </style>
+    <style name="AppTheme.PinkAccent">
+        <item name="colorAccent">@color/ant_pink</item>
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -2645,6 +2671,39 @@
         <item name="android:dropDownItemStyle">@style/Widget.AppCompat.DropDownItem.Spinner</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Holo.Spinner"/>
+    <style name="PlayBtn">
+        <item name="android:layout_width">78dp</item>
+        <item name="android:layout_height">60dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:background">@drawable/bg_rounded_corners_dark_gray_a40</item>
+    </style>
+    <style name="PlayerControlsTxt">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/rounded_semitransparent_bg</item>
+        <item name="android:fontFamily">@font/roboto_condensed_bold</item>
+        <item name="android:gravity">center</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:paddingTop">4dp</item>
+        <item name="android:paddingBottom">4dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/ant_white</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+    <style name="PlayerNavigationBtn">
+        <item name="android:layout_width">39dp</item>
+        <item name="android:layout_height">30dp</item>
+        <item name="android:background">@drawable/bg_rounded_corners_dark_gray_a40</item>
+        <item name="android:padding">5dp</item>
+        <item name="android:scaleType">fitXY</item>
+        <item name="android:layout_margin">12dp</item>
+    </style>
+    <style name="PositiveButtonStyle" parent="Widget.AppCompat.Button.ButtonBar.AlertDialog">
+        <item name="android:textColor">@color/ant_pink</item>
+    </style>
     <style name="RtlOverlay.DialogWindowTitle.AppCompat" parent="Base.DialogWindowTitle.AppCompat">
     </style>
     <style name="RtlOverlay.Widget.AppCompat.ActionBar.TitleItem" parent="android:Widget">
@@ -3082,6 +3141,16 @@
     <item name="editTextStyle">@style/Widget.MaterialComponents.TextInputEditText.OutlinedBox.Dense
     </item>
   </style>
+    <style name="Title">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:fontFamily">@font/roboto_condensed_regular</item>
+        <item name="android:textColor">@color/ant_white</item>
+        <item name="android:textSize">28sp</item>
+    </style>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
     <style name="Widget.AppCompat.ActionBar.Solid" parent="Base.Widget.AppCompat.ActionBar.Solid">

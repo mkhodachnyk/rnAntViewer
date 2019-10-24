@@ -39,11 +39,8 @@ public class ButtonViewManager extends SimpleViewManager<AntourageFab> implement
     public void setEnableUpdates(AntourageFab button,String isEnabled){
         if(Boolean.valueOf(isEnabled)){
             button.onResume();
-            Toast.makeText(button.getContext(),"onResume",Toast.LENGTH_LONG).show();
         } else {
             button.onPause();
-            Toast.makeText(button.getContext(), "onPause", Toast.LENGTH_LONG).show();
         }
     }
-
 }
