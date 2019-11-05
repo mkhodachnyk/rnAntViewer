@@ -54,7 +54,6 @@ android {
 allprojects {
     repositories {
         maven { url 'https://jitpack.io' }
-        mavenLocal()
         google()
         jcenter()
         maven {
@@ -72,6 +71,6 @@ dependencies {
     implementation"org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     implementation "com.android.support:appcompat-v7:${rootProject.ext.supportLibVersion}"
     implementation "com.facebook.react:react-native:+"  // From node_modules
-    implementation 'com.github.mkhodachnyk:ant-viewer-test:0.1.2'
+    implementation 'com.github.antourage:AntViewer-android:0.1.0'
     implementation 'com.android.support.constraint:constraint-layout:2.0.0-beta1'
 }
